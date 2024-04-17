@@ -40,3 +40,29 @@
 .read-the-docs {
   color: #888;
 }
+
+h2 {
+  color: grey;
+  text-decoration: underline;
+}
+
+tr {
+  text-align: left;
+}
+
+td {
+  padding: 2px;
+  border-bottom: 3px solid grey;
+  border-right: 3px solid grey;
+  border-spacing: 10px;
+  border-collapse: separate;
+}
+
+th {
+  text-align: center;
+  border-bottom: 3px solid grey;
+}
+
+td {
+  
+}
